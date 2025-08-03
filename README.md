@@ -68,7 +68,7 @@ This project is a complete API automation suite built using **Rest Assured** and
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/daily-finance-api-automation.git
+git clone https://github.com/your-username/restassured-api-testing.git
 cd daily-finance-api-automation
 
 # 2. Build the project and run tests with specific suite
